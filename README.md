@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manoranjan Kumar
-- 👀 I’m interested in collaboration as well as internships.
+- 👀 I’m interested in collaboration as well as internship programs.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on Frontend through HTML, CSS, and JavaScript.
 - 📫 How to reach me: connect me on linkedin https://www.linkedin.com/in/manoranjan-kumar-77569420b/
